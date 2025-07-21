@@ -1,0 +1,32 @@
+{
+	"__comment": "by GodRicl",
+	"textures": {
+		"particle": "block/polished_diorite_stairs_side",
+		"texture": "block/polished_diorite_stairs_side",
+		"pink": "block/pink_concrete"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "bottom",
+			"from": [ 0, 0, 0 ],
+			"to": [ 8, 16, 16 ],
+			"faces": {
+				"down": { "uv": [ 8, 0, 16, 8 ], "texture": "#texture", "rotation": 270 },
+				"up": { "uv": [ 8, 8, 16, 0 ], "texture": "#texture", "rotation": 90 },
+				"north": { "uv": [ 0, 8, 8, 16 ], "texture": "#texture", "rotation": 180 },
+				"south": { "uv": [ 0, 8, 8, 16 ], "texture": "#texture" },
+				"west": { "uv": [ 0, 0, 16, 2 ], "texture": "#texture" },
+				"east": { "uv": [ 6.5, 7, 8, 16 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "pink",
+			"from": [ 8, 0, 0 ],
+			"to": [ 16, 0.001, 16 ],
+			"faces": {
+				"down": { "uv": [ 0, 0, 16, 1.5 ], "texture": "#pink" },
+				"up": { "uv": [ 8, 2.5, 16, 6 ], "texture": "#pink" }
+			}
+		}
+	]
+}

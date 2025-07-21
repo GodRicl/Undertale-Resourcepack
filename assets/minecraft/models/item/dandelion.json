@@ -1,0 +1,11 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": { "layer0": "block/dandelion" },
+	"display": {
+		"fixed":
+		{
+			"translation": [ 0, 7, 0 ], 
+			"scale":  [ 3, 3, 3 ]
+		}
+	}
+}

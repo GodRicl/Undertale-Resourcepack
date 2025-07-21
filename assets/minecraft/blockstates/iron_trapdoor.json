@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "facing=east,half=top,open=true": {
+            "model": "block/iron_trapdoor_wall"
+        },
+        "facing=west,half=top,open=true": {
+            "model": "block/iron_trapdoor_wall",
+            "y": 180
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/ruins_some_lines"
+  },
+  "display": {
+	"fixed": {
+		"rotation":  [ 0, 180, 0 ],
+		"translation":  [ 0, 10, 0 ],
+		"scale":  [ 2.5, 2.5, 2.5 ]
+	}
+  }
+}

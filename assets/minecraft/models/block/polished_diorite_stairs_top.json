@@ -1,0 +1,22 @@
+{
+	"__comment": "by GodRicl",
+	"textures": {
+		"particle": "block/polished_diorite_slab",
+		"texture": "block/polished_diorite_slab"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "bottom",
+			"from": [ 0, 8, 0 ],
+			"to": [ 8, 16, 16 ],
+			"faces": {
+				"down": { "uv": [ 0, 13, 16, 16 ], "texture": "#texture", "rotation": 90 },
+				"up": { "uv": [ 0, 0, 16, 4 ], "texture": "#texture", "rotation": 270 },
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+			}
+		}
+	]
+}

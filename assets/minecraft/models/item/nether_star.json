@@ -1,0 +1,11 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": { "layer0": "item/nether_star" },
+	"display": {
+		"fixed":
+		{
+			"translation": [ 0, 10, 0 ], 
+			"scale":  [ 3, 3, 3 ]
+		}
+	}
+}

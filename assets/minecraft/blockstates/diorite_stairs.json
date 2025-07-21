@@ -1,0 +1,10 @@
+{
+  "variants": {
+	"facing=east,half=bottom,shape=straight": {
+		"model": "block/diorite_stairs_bottom_east"
+    },
+	"facing=west,half=bottom,shape=straight": {
+		"model": "block/diorite_stairs_bottom_west"
+    }
+  }
+}

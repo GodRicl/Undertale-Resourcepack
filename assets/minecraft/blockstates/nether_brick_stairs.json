@@ -1,0 +1,13 @@
+{
+  "variants": {
+	"facing=south,half=top,shape=inner_left": {
+		"model": "block/cracked_floor_1"
+	},
+	"facing=east,half=top,shape=inner_left": {
+		"model": "block/cracked_floor_3"
+	},
+	"facing=north,half=top,shape=straight": {
+		"model": "block/cracked_floor_4"
+    }
+  }
+}

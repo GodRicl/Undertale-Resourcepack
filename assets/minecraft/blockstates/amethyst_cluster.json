@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "facing=up": {
+      "model": "block/trap_thorn"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/ruins_arrow_under"
+  },
+  "display": {
+	"fixed": {
+		"rotation":  [ 0, 180, 0 ],
+		"translation":  [ -2, -2, 0 ],
+		"scale":  [ 1.2, 1.2, 1.2 ]
+	}
+  }
+}
